@@ -15,6 +15,5 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 
-Project-Creation-Guide.md
-Tech-Stack.md
-Working.md
+# Ignore all .md files in root
+*.md
