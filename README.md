@@ -30,9 +30,6 @@ ExpenseTracker/
 ├── backend/
 ├── frontend/
 ├── README.md
-├── Tech-Stack.md
-├── Working.md
-└── Project-Creation-Guide.md
 
 Setup Instructions
 1. Database Setup
