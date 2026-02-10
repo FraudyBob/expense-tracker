@@ -98,3 +98,14 @@ Improvements With More Time
 -Better error handling and UI feedback
 -Unit and integration tests
 -Deployment configuration
+
+## Screenshots
+
+### Projects List
+![Projects List](screenshots\projects-list.png)
+
+### Add Project
+![Add Project](screenshots\add-projects.png)
+
+### Project Expenses
+![Project Expenses](screenshots\add-expenses.png)
